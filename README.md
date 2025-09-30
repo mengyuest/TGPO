@@ -15,11 +15,11 @@
 
 <table>
   <tr>
-    <td style="width: 20%; text-align: center;"><img src="figures/env_0lin.png"></td>
-    <td style="width: 20%; text-align: center;"><img src="figures/env_1car.png"></td>
-    <td style="width: 20%; text-align: center;"><img src="figures/env_2arm.png"></td>
-    <td style="width: 20%; text-align: center;"><img src="figures/env_3drone.png"></td>
-    <td style="width: 20%; text-align: center;"><img src="figures/env_4ant.png"></td>
+    <td style="width: 20%; text-align: center;"><img src="figures/env_0lin.png" width="95%"></td>
+    <td style="width: 20%; text-align: center;"><img src="figures/env_1car.png" width="95%"></td>
+    <td style="width: 20%; text-align: center;"><img src="figures/env_2arm.png" width="95%"></td>
+    <td style="width: 20%; text-align: center;"><img src="figures/env_3drone.png" width="95%"></td>
+    <td style="width: 20%; text-align: center;"><img src="figures/env_4ant.png" width="95%"></td>
   </tr>
   <tr>
     <td style="width: 20%; text-align: center;">Linear</td>
